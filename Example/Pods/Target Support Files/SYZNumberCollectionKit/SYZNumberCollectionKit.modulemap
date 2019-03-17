@@ -1,0 +1,6 @@
+framework module SYZNumberCollectionKit {
+  umbrella header "SYZNumberCollectionKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,23 @@
+PODS:
+  - SYZNumberCollectionKit (0.1.0):
+    - SYZUIBasekit
+  - SYZUIBasekit (0.1.6)
+
+DEPENDENCIES:
+  - SYZNumberCollectionKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SYZUIBasekit
+
+EXTERNAL SOURCES:
+  SYZNumberCollectionKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SYZNumberCollectionKit: 3e53a0560ae9b1cd76312b452c8b89f9382ff183
+  SYZUIBasekit: fcbd817e043d3c4c19a9b0b1c4654b78bada8b94
+
+PODFILE CHECKSUM: 8f8313b42c3ab2f6ab470970630c5955cff464d4
+
+COCOAPODS: 1.6.1

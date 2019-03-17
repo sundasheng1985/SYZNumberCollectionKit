@@ -1,0 +1,6 @@
+framework module Pods_SYZNumberCollectionKit_Tests {
+  umbrella header "Pods-SYZNumberCollectionKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
